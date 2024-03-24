@@ -1,3 +1,1 @@
-Nome: Alexandre Caldes
-Numero 1
-3B
+Nome: Alexandre Caldes, numero 1, 3B
